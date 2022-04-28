@@ -20,8 +20,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31d62hjx32onrti7jzv4u5edpglm)
 
-## Listening to... 🎧
-[![Spotify](https://novatorem-rho-one.vercel.app/api/spotify)](https://open.spotify.com/user/31d62hjx32onrti7jzv4u5edpglm)
 
 ### Join My [Playlist!](https://open.spotify.com/playlist/5vrO4vAlJTOGt8psdcVPN7) 🎶🎵
 
