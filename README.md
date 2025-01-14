@@ -1,11 +1,5 @@
 # Hi there, I'm Ayush Kumar Verma <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## I'm a Developer
-
-- 🌱 I’m currently learning everything xD
-- 🎓 Studying B.E-CSE @ Sathyabama
-- 🎬 Anime
-
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushverma108)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-verma-9849511a0/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayushv108)
